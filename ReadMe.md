@@ -40,5 +40,5 @@ From the terminal use the following commands to run the model.
     python mainCIFAR10.py --n_epochs=100 --lr=0.001 --batch_size=32
     ```
 
-[1]: https://naga-karthik.github.io/posts/2020/06/pytorch-ddp/
+[1]: https://naga-karthik.github.io/posts/2020/07/pytorch-ddp/
 [2]: https://www.cs.toronto.edu/~kriz/cifar.html
