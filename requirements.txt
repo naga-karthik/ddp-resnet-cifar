@@ -12,7 +12,7 @@ fbs==0.8.6
 future==0.18.2
 google-auth==1.7.2
 google-auth-oauthlib==0.4.1
-grpcio==1.25.0
+grpcio==1.53.0
 idna==2.8
 imagecodecs==2020.2.18
 imageio==2.8.0
