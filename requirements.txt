@@ -70,7 +70,7 @@ threadpoolctl==2.1.0
 tifffile==2020.5.11
 torch==1.13.1
 torchvision==0.4.2
-tornado==6.3.2
+tornado==6.3.3
 traitlets==4.3.3
 urllib3==1.26.5
 wcwidth==0.1.8
